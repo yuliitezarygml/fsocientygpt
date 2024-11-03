@@ -45,7 +45,7 @@ project-name/
 Описание основных эндпоинтов API (если есть)
 
 ## Автор ✨
-Ваше имя - [GitHub](https://github.com/username)
+Ваше имя - [GitHub](https://github.com/yuliitezarygml)
 
 ## Лицензия 📝
 MIT License
