@@ -14,7 +14,7 @@ android {
         applicationId = "com.yuliitezary.gpt" // Уникальный идентификатор приложения
         minSdk = 26                          // Минимальная поддерживаемая версия Android
         targetSdk = 35                       // Целевая версия Android
-        versionCode = 36                     // Код версии для Google Play
+        versionCode = 37                     // Код версии для Google Play
         versionName = "2.1.0"               // Отображаемая версия приложения
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner" // Тестовый runner
